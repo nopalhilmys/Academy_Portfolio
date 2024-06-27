@@ -1,6 +1,6 @@
 # Road Map
 
-# Bootsrap Fundamental
+## Bootsrap Fundamental
 
 -   Container
 -   Breakpoint
@@ -8,17 +8,19 @@
 -   Display & Flexbox
 -   Spacing
 
-# Bootstrap Portfolio Project
+## Bootstrap Portfolio Project
 
 -   Bootstrap Icons
 -   Step by step Portfolio
 -   Sass basic
 
-# Requirement Portofolio
+## Requirement Portofolio
 
 -   install bootstrap icon https://icons.getbootstrap.com/ via npm (npm i bootstrap-icons)
 -   install lightbox library https://lokeshdhakar.com/projects/lightbox2/ via npm (npm install lightbox2 --save)
 
-# Source : https://getbootstrap.com/
+## Source : https://getbootstrap.com/
 
-# Cheatsheet : https://bootstrap-cheatsheet.themeselection.com/
+## Cheatsheet : https://bootstrap-cheatsheet.themeselection.com/
+
+## repository : https://github.com/nopalhilmys/Academy_Portfolio
